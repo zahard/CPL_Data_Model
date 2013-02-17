@@ -1,8 +1,8 @@
 CPL_Data_Model
 ==============
 
-Use own tables in Wordpress Plugins? That class will help you. 
-Just few lines - and you get CRUD operations and flexibles queries 
-for you tables. Saves a lot of time for Wordpress Developers
+<b>Use own tables in Wordpress Plugins? </b> <br/>
+That class will help you. Just few lines - and you get CRUD operations and flexibles queries for you tables.<br/>
+Saves a lot of time for Wordpress Developers<br/>
 
-Look for use cases  in Examples.php
+Look for usecases  in <b>examples.php</b>
